@@ -89,7 +89,10 @@ Los miembros deberán:
 - Pagar las cuotas establecidas por la Asamblea General.
 - Mantener una conducta ética y profesional acorde con los principios de la asociación.
 
-**Artículo 11. Pérdida de la calidad de miembro**
+**Artículo 11. Admisión de miembros**
+Las solicitudes de ingreso a la Asociación deberán presentarse a la Junta Directiva, la cual evaluará el cumplimiento de los requisitos correspondientes a cada categoría de membresía. La admisión podrá ser ratificada por la Asamblea General cuando así se disponga en los reglamentos internos.
+
+**Artículo 12. Pérdida de la calidad de miembro**
 La calidad de miembro se perderá por:
 - Renuncia
 - Falta de pago de las cuotas
@@ -98,15 +101,15 @@ La calidad de miembro se perderá por:
 
 ## Capítulo V - Órganos de gobierno
 
-**Artículo 12. Órganos de la asociación**
+**Artículo 13. Órganos de la asociación**
 Los órganos de la asociación serán:
 - La Asamblea General
 - La Junta Directiva
 
-**Artículo 13. Asamblea General**
+**Artículo 14. Asamblea General**
 La Asamblea General es la máxima autoridad de la asociación y estará integrada por los miembros titulares.
 
-**Artículo 13.1. Funciones de la Asamblea General**
+**Artículo 14.1. Funciones de la Asamblea General**
 Son funciones de la Asamblea General:
 - Aprobar o modificar los estatutos.
 - Elegir a la Junta Directiva.
@@ -115,16 +118,16 @@ Son funciones de la Asamblea General:
 - Conocer los informes de la Junta Directiva.
 - Decidir sobre la admisión o exclusión de miembros cuando corresponda.
 
-**Artículo 13.2. Reuniones**
+**Artículo 14.2. Reuniones**
 La Asamblea General se reunirá en sesión ordinaria al menos una vez al año y en sesiones extraordinarias cuando lo convoque la Junta Directiva o lo solicite al menos el veinte por ciento (20%) de los miembros titulares
 
-**Artículo 13.3. Quórum**
+**Artículo 14.3. Quórum**
 El quórum para la instalación de la Asamblea General será de la mitad más uno de los miembros titulares. Si no se alcanza el quórum, la Asamblea podrá instalarse en segunda convocatoria con los miembros presentes.
 
-**Artículo 13.4. Comités**
+**Artículo 14.4. Comités**
 La Asamblea General podrá establecer comités permanentes o temporales para apoyar el cumplimiento de sus objetivos. Entre ellos podrán incluirse comités científicos, educativos o técnicos relacionados con la informática en salud. Su organización y funcionamiento se establecerán mediante reglamentos internos.
 
-**Artículo 14. Junta Directiva**
+**Artículo 15. Junta Directiva**
 La Junta Directiva estará integrada por:
 - Presidente
 - Vicepresidente
@@ -132,7 +135,7 @@ La Junta Directiva estará integrada por:
 - Tesorero
 - Vocal
 
-**Artículo 14.1. Funciones de la Junta Directiva**
+**Artículo 15.1. Funciones de la Junta Directiva**
 Son funciones de la Junta Directiva:
 - Dirigir y administrar la asociación.
 - Ejecutar las decisiones de la Asamblea General.
@@ -140,10 +143,10 @@ Son funciones de la Junta Directiva:
 - Administrar los recursos financieros de la asociación.
 - Representar a la asociación ante instituciones nacionales e internacionales.
 
-**Artículo 14.2. Período**
+**Artículo 15.2. Período**
 Los miembros de la Junta Directiva ejercerán sus funciones por un período de dos años, pudiendo ser reelectos.
 
-**Artículo 14.3. Funciones específicas**
+**Artículo 15.3. Funciones específicas**
 1. Presidente
     - Responsable de la dirección estratégica y representación institucional.
     - Funciones principales:
@@ -187,15 +190,15 @@ Los miembros de la Junta Directiva ejercerán sus funciones por un período de d
         - Colaborar con los comités de la asociación en actividades de difusión científica.
         - Ejecutar tareas específicas delegadas por la Junta Directiva.
 
-**Artículo 14.4. Representación legal**
+**Artículo 15.4. Representación legal**
 El Presidente ejercerá la representación legal de la Asociación. En caso de ausencia temporal o permanente, esta representación será asumida por el Vicepresidente o por el miembro de la Junta Directiva que esta designe.
 
-**Artículo 14.5. Vacantes**
+**Artículo 15.5. Vacantes**
 En caso de renuncia, incapacidad o ausencia permanente de un miembro de la Junta Directiva, la Junta podrá designar un reemplazo provisional hasta la próxima Asamblea General.
 
 ## Capítulo VI - Patrimonio
 
-**Artículo 15. Patrimonio**
+**Artículo 16. Patrimonio**
 El patrimonio de la asociación estará constituido por:
 - Cuotas de membresía
 - Donaciones
@@ -206,37 +209,37 @@ El patrimonio de la asociación estará constituido por:
 
 ## Capítulo VII - Principios de ética, tecnología y gobernanza digital
 
-**Artículo 16. Uso ético de tecnologías digitales**
+**Artículo 17. Uso ético de tecnologías digitales**
 La Asociación promoverá el uso ético y responsable de tecnologías digitales aplicadas a la salud, incluyendo sistemas de información, inteligencia artificial, telemedicina y herramientas de análisis de datos.
 
-**Artículo 17. Protección de datos de salud**
+**Artículo 18. Protección de datos de salud**
 La Asociación fomentará el respeto a la privacidad, confidencialidad y seguridad de los datos de salud, promoviendo buenas prácticas en el manejo de información sanitaria conforme a la legislación vigente.
 
-**Artículo 18. Transparencia y conflictos de interés**
+**Artículo 19. Transparencia y conflictos de interés**
 Los miembros deberán declarar posibles conflictos de interés en actividades científicas, proyectos de investigación o recomendaciones técnicas promovidas por la Asociación.
 
-**Artículo 19. Promoción de estándares e interoperabilidad**
+**Artículo 20. Promoción de estándares e interoperabilidad**
 La Asociación promoverá la adopción de estándares internacionales para la interoperabilidad de sistemas de información en salud y el intercambio seguro de datos clínicos.
 
-**Artículo 20. Inteligencia artificial en salud**
+**Artículo 21. Inteligencia artificial en salud**
 La Asociación fomentará el desarrollo, evaluación y uso responsable de tecnologías de inteligencia artificial aplicadas a la salud, promoviendo su uso transparente, explicable y centrado en el bienestar del paciente.
 
-**Artículo 21. Educación y capacitación**
+**Artículo 22. Educación y capacitación**
 La Asociación impulsará programas de capacitación dirigidos a profesionales de la salud, investigadores y técnicos con el fin de fortalecer las competencias en informática en salud y alfabetización digital sanitaria.
 
-**Artículo 22. Colaboración interdisciplinaria**
+**Artículo 23. Colaboración interdisciplinaria**
 La Asociación promoverá la colaboración entre profesionales de distintas disciplinas, incluyendo medicina, enfermería, informática, ingeniería, estadística y ciencias sociales.
 
-**Artículo 23. Acceso abierto al conocimiento**
+**Artículo 24. Acceso abierto al conocimiento**
 La Asociación fomentará la difusión abierta del conocimiento científico en informática en salud, promoviendo la publicación y circulación de recursos educativos y científicos cuando sea posible.
 
 ## Capítulo VIII - Reformas
 
-**Artículo 24. Reforma de estatutos**
+**Artículo 25. Reforma de estatutos**
 Los presentes estatutos podrán ser modificados por la Asamblea General mediante el voto favorable de la mayoría de los miembros presentes.
 
 ## Capítulo IX - Disolución
 
-**Artículo 25. Disolución**
+**Artículo 26. Disolución**
 La asociación podrá disolverse mediante acuerdo de la Asamblea General convocada para tal fin.
 En caso de disolución, los bienes remanentes serán destinados a una institución académica o científica sin fines de lucro relacionada con el ámbito de la salud o la educación.
