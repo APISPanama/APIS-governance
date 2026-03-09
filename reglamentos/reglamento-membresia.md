@@ -17,16 +17,16 @@ Aplica a todas las categorías de membresía establecidas en los estatutos de AP
 - No requieren solicitud adicional ni pago de membresía anual.
 
 **Artículo 4. Miembros Titulares**  
-- Profesionales de la salud, ingeniería, informática u otras disciplinas afines con experiencia o formación en informática en salud.  
+Profesionales de la salud, ingeniería, informática u otras disciplinas afines con experiencia o formación en informática en salud.  
 - Requisitos:
   - Solicitud formal en el portal web de APIS.
-  - Evidencia de formación o experiencia (CV, certificados, publicaciones, proyectos).
+  - Evidencia de formación (certificado de culminación de estudios de posgrado, maestría, residencia o similar en el área)
 - Derechos:
   - Voz y voto en la Asamblea General.
   - Elegir y ser elegidos para cargos directivos.
 
 **Artículo 5. Miembros Asociados**  
-- Profesionales interesados en la informática en salud que no cumplen los requisitos para titulares.  
+Profesionales interesados en la informática en salud que no cumplen los requisitos para titulares.  
 - Requisitos:
   - Solicitud en el portal web.
 - Derechos:
@@ -35,7 +35,7 @@ Aplica a todas las categorías de membresía establecidas en los estatutos de AP
   - Sin derecho a voto, salvo autorización expresa de la Asamblea.
 
 **Artículo 6. Miembros Estudiantes**  
-- Estudiantes de carreras relacionadas con salud, informática, ingeniería, ciencias de datos u otras afines.  
+Estudiantes de carreras relacionadas con salud, informática, ingeniería, ciencias de datos u otras afines.  
 - Requisitos:
   - Solicitud en el portal web.
   - Certificación de estudios vigente.
@@ -44,7 +44,7 @@ Aplica a todas las categorías de membresía establecidas en los estatutos de AP
   - Acceso a materiales de capacitación.
 
 **Artículo 7. Miembros Institucionales**  
-- Universidades, hospitales, centros de investigación, empresas u organizaciones interesadas en promover la informática en salud.  
+Universidades, hospitales, centros de investigación, empresas u organizaciones interesadas en promover la informática en salud.  
 - Requisitos:
   - Solicitud formal de la institución.
 - Derechos:
@@ -52,7 +52,7 @@ Aplica a todas las categorías de membresía establecidas en los estatutos de AP
   - Representación institucional en comités técnicos.
 
 **Artículo 8. Miembros Honorarios**  
-- Personas que hayan realizado contribuciones destacadas a la informática en salud.  
+Personas que hayan realizado contribuciones destacadas a la informática en salud.  
 - Otorgamiento por decisión de la Asamblea General.  
 - Derechos:
   - Participar en actividades de la asociación.
@@ -67,12 +67,12 @@ Aplica a todas las categorías de membresía establecidas en los estatutos de AP
 - Se deberá completar el formulario correspondiente a cada categoría, adjuntando evidencia requerida.
 
 **Artículo 10. Evaluación y Aprobación**  
-- La Junta Directiva evaluará las solicitudes dentro de un plazo máximo de 15 días hábiles.  
+- La Junta Directiva evaluará las solicitudes de membresía titular dentro de un plazo máximo de 5 días hábiles.  
 - La aprobación será notificada vía correo electrónico al solicitante.
 
 **Artículo 11. Renovación y Pago de Membresía**  
-- Las membresías de asociados y estudiantes son **anuales**.  
-- El pago se realizará mediante la plataforma de APIS, integrando Tilopay/Yappy.  
+- Las membresías institucionales, titulares, asociados y estudiantes son **anuales**.  
+- El pago se realizará mediante la plataforma web de APIS o mediante transferencia bancaria a la cuenta oficial de APIS.
 - La no renovación implica pérdida de derechos de acceso hasta regularización.
 
 **Artículo 12. Elevación de Membresía**  
@@ -125,8 +125,8 @@ Todos los miembros, según su categoría, tienen derecho a:
 ## Capítulo VII - Disposiciones Finales
 
 **Artículo 20. Interpretación**  
-- La Junta Directiva es responsable de interpretar el presente reglamento y resolver casos no previstos.  
+La Junta Directiva es responsable de interpretar el presente reglamento y resolver casos no previstos.  
 
 **Artículo 21. Publicación**  
-- El reglamento estará disponible en el portal web de APIS y podrá ser actualizado mediante aprobación de la Asamblea General.
+El reglamento estará disponible en el portal web de APIS y podrá ser actualizado mediante aprobación de la Asamblea General.
 
