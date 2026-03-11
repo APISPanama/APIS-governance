@@ -9,7 +9,7 @@ Se constituye una organización científica sin fines de lucro denominada Asocia
 APIS es una asociación científica, académica y profesional sin fines de lucro, destinada a promover el desarrollo, la investigación, la educación y la implementación de la informática en salud en la República de Panamá.
 
 **Artículo 3. Domicilio**  
-El domicilio principal de la Asociación será la ciudad de Panamá, República de Panamá, sin perjuicio de poder establecer capítulos o representaciones en otras provincias del país.
+La Asociación desarrollará sus operaciones en todo el territorio de la República de Panamá. Su domicilio principal y legal para efectos de notificaciones será: Ernesto Córdoba Campos, PH Colinas del Lago, apartamento #98, ciudad de Panamá, República de Panamá.
 
 **Artículo 4. Duración**  
 La asociación tendrá duración indefinida.
@@ -90,14 +90,21 @@ Los miembros deberán:
 - Mantener una conducta ética y profesional acorde con los principios de la asociación.
 
 **Artículo 11. Admisión de miembros**  
-Las solicitudes de ingreso a la Asociación deberán presentarse a la Junta Directiva, la cual evaluará el cumplimiento de los requisitos correspondientes a cada categoría de membresía. La admisión podrá ser ratificada por la Asamblea General cuando así se disponga en los reglamentos internos.
+Las solicitudes de ingreso a la Asociación se realizarán a través de la plataforma digital oficial de APIS, completando el formulario correspondiente a la categoría de membresía solicitada y aportando la documentación requerida en formato digital. La Junta Directiva evaluará el cumplimiento de los requisitos correspondientes y notificará la decisión al solicitante por correo electrónico dentro del plazo establecido en el reglamento interno. El proceso de admisión garantizará en todo momento el respeto a los derechos humanos y las garantías fundamentales consagradas en la Constitución Política de la República de Panamá, sin que pueda mediar discriminación por razón de raza, género, nacionalidad, religión, condición socioeconómica, discapacidad o cualquier otra condición. La admisión se considerará ratificada cuando al menos dos miembros de la Junta Directiva la aprueben.
 
 **Artículo 12. Pérdida de la calidad de miembro**  
 La calidad de miembro se perderá por:
-- Renuncia
-- Falta de pago de las cuotas
-- Incumplimiento de los estatutos
-- Decisión de la Asamblea General
+- Renuncia voluntaria presentada por escrito a la Junta Directiva.
+- Falta de pago de las cuotas de membresía, previa notificación escrita con un plazo de cuarenta y cinco (45) días calendario para regularizar la situación.
+- Incumplimiento grave de los presentes estatutos o de los reglamentos internos, previa apertura de un proceso sumario por parte de la Junta Directiva en el que se garantice al afectado el derecho a ser escuchado y a presentar descargos dentro de un plazo no menor de quince (15) días hábiles.
+- Decisión motivada de la Asamblea General, adoptada con el voto favorable de la mayoría de los miembros titulares presentes y previa recomendación de la Junta Directiva.
+En todos los casos, el miembro afectado tendrá derecho a interponer recurso de reconsideración ante la Junta Directiva dentro de los cinco (5) días hábiles siguientes a la notificación de la decisión.
+
+**Artículo 13. Registros de membresía de la Asociación**  
+La Asociación mantendrá un registro digital actualizado de todos sus miembros, con indicación del nombre, categoría de membresía, fecha de ingreso y estado de la membresía. Este registro podrá ser consultado por cualquier miembro de la Asociación que lo solicite por escrito a la Junta Directiva. Asimismo, el registro de miembros podrá ser puesto a disposición del Ministerio de Gobierno cuando este lo requiera, conforme al Decreto Ejecutivo N.° 62 de 30 de marzo de 2017, en formato digital o impreso según se indique.
+
+**Artículo 14. Fijación de cuotas de ingreso y membresía**  
+La Asamblea General es el órgano competente para fijar, modificar o exonerar las cuotas de ingreso y membresía anual correspondientes a cada categoría de miembro. La Junta Directiva podrá proponer montos a la Asamblea General, pero la aprobación definitiva corresponde exclusivamente a esta última. Las cuotas vigentes deberán constar en el reglamento interno de membresía.
 
 ## Capítulo V - Órganos de gobierno
 
@@ -119,12 +126,17 @@ Son funciones de la Asamblea General:
 - Decidir sobre la admisión o exclusión de miembros cuando corresponda.
 
 **Artículo 14.2. Reuniones**  
-La Asamblea General se reunirá en sesión ordinaria al menos una vez al año y en sesiones extraordinarias cuando lo convoque la Junta Directiva o lo solicite al menos el veinte por ciento (20%) de los miembros titulares
+La Asamblea General ordinaria se reunirá al menos una vez al año. Las sesiones extraordinarias serán convocadas por la Junta Directiva o a solicitud de al menos el veinte por ciento (20%) de los miembros titulares. Toda convocatoria se realizará con un mínimo de quince (15) días calendario de anticipación mediante comunicación electrónica dirigida a la dirección de correo registrada por cada miembro en la plataforma de APIS, indicando la fecha, hora, modalidad de conexión y el orden del día. Las sesiones podrán celebrarse de manera presencial, virtual o híbrida, siendo los medios de videoconferencia y comunicación digital equivalentes a la presencia física
+**Artículo 14.2.1. Libro de actas**  
+La Asociación mantendrá un libro de actas digital en el que se registrarán todas las sesiones de la Asamblea General y de la Junta Directiva, consignando fecha, modalidad de la sesión, participantes, puntos tratados y acuerdos adoptados. Cada acta será suscrita por el Presidente y el Secretario mediante firma electrónica, de conformidad con lo establecido en la Ley N.° 51 de 22 de julio de 2008 y sus modificaciones, garantizando su integridad, autenticidad y accesibilidad para consulta posterior. El libro de actas estará alojado en la plataforma digital oficial de la Asociación, con respaldo que garantice su preservación y disponibilidad.
 
 **Artículo 14.3. Quórum**  
-El quórum para la instalación de la Asamblea General será de la mitad más uno de los miembros titulares. Si no se alcanza el quórum, la Asamblea podrá instalarse en segunda convocatoria con los miembros presentes.
+El quórum para la instalación de la Asamblea General en primera convocatoria será de la mitad más uno de los miembros titulares. Si no se alcanzare el quórum en primera convocatoria, la Asamblea podrá instalarse válidamente en segunda convocatoria, transcurrida al menos una hora, con los miembros titulares presentes, independientemente de su número. Las decisiones se adoptarán por mayoría simple de votos de los miembros titulares presentes, salvo los casos en que los presentes estatutos exijan una mayoría calificada. El voto será personal e indelegable. De cada sesión se levantará un acta que deberá ser firmada por el Presidente y el Secretario, y conservada en el libro de actas de la Asociación.
 
-**Artículo 14.4. Comités**  
+**Artículo 14.4. Publicaciones**  
+Los acuerdos y resoluciones adoptados por la Asamblea General serán comunicados a todos los miembros dentro de los diez (10) días hábiles siguientes a la celebración de la sesión, a través de la plataforma digital oficial de APIS y del correo electrónico institucional registrado por cada miembro. Estas comunicaciones tendrán plena validez como notificación formal.
+
+**Artículo 14.5. Comités**  
 La Asamblea General podrá establecer comités permanentes o temporales para apoyar el cumplimiento de sus objetivos. Entre ellos podrán incluirse comités científicos, educativos o técnicos relacionados con la informática en salud. Su organización y funcionamiento se establecerán mediante reglamentos internos.
 
 **Artículo 15. Junta Directiva**  
@@ -196,18 +208,30 @@ El Presidente ejercerá la representación legal de la Asociación. En caso de a
 **Artículo 15.5. Vacantes**  
 En caso de renuncia, incapacidad o ausencia permanente de un miembro de la Junta Directiva, la Junta podrá designar un reemplazo provisional hasta la próxima Asamblea General.
 
+**Artículo 15.6. Reuniones**  
+La Junta Directiva se reunirá al menos una vez al trimestre, o con mayor frecuencia si las necesidades de la Asociación lo requieren. Las reuniones podrán ser presenciales o virtuales. Las convocatorias serán realizadas por el Presidente con al menos cinco (5) días hábiles de anticipación, indicando fecha, hora, lugar o modalidad de conexión y orden del día. Las decisiones se adoptarán por mayoría simple de los miembros presentes.
+
+**Artículo 15.7. Elecciones**  
+La Junta Directiva será elegida por la Asamblea General mediante votación directa, secreta y universal de los miembros titulares. Para tal efecto, la Junta Directiva saliente convocará a elecciones con un mínimo de treinta (30) días calendario de anticipación al vencimiento del período en ejercicio. Los candidatos deberán ser miembros titulares en buen estado y presentar su postulación por escrito ante el Secretario con al menos quince (15) días de antelación a la fecha de la elección. Resultará electa la planilla que obtenga la mayoría simple de los votos válidamente emitidos. En caso de empate se procederá a una segunda votación entre las opciones empatadas. Los resultados serán certificados por el Secretario y comunicados a todos los miembros dentro de los cinco (5) días hábiles siguientes.
+
 ## Capítulo VI - Patrimonio
 
 **Artículo 16. Patrimonio**  
 El patrimonio de la asociación estará constituido por:
-- Cuotas de membresía
-- Donaciones
-- Aportes institucionales
-- Ingresos por actividades académicas o científicas
-- Cualquier otro ingreso lícito compatible con los fines de la asociación
-- Activos digitales institucionales tales como dominios web, plataformas digitales, repositorios de software, contenidos digitales y otros recursos tecnológicos desarrollados o adquiridos por la asociación
+- Cuotas de membresía anuales de sus miembros, según las categorías establecidas en los presentes estatutos y fijadas por la Asamblea General.
+- Donaciones, legados o aportes de personas naturales o jurídicas, nacionales o extranjeras.
+- Aportes institucionales de organizaciones aliadas o cooperantes.
+- Ingresos derivados de actividades académicas y científicas, incluyendo congresos, jornadas, talleres, seminarios, cursos de capacitación, certificaciones y publicaciones especializadas.
+- Fondos provenientes de proyectos de investigación, consultorías o cooperación técnica compatibles con los fines de la Asociación.
+- Activos digitales institucionales tales como dominios web, plataformas digitales, repositorios de software y contenidos digitales desarrollados o adquiridos por la Asociación.
+- Cualquier otro ingreso lícito compatible con la naturaleza no lucrativa de la Asociación.
+En ningún caso los ingresos obtenidos podrán ser distribuidos entre los miembros, fundadores o directivos de la Asociación.
 
-## Capítulo VII - Principios de ética, tecnología y gobernanza digital
+**Artículo 16.1. Registros contables de la Asociación**  
+La Asociación llevará registros contables digitales actualizados que permitan conocer en todo momento su situación financiera. Dichos registros incluirán, como mínimo, un libro de ingresos y egresos, un registro de los fondos recibidos por concepto de cuotas de membresía, donaciones, actividades académicas y otras fuentes, así como un registro de los fondos generados, transferidos o aplicados a proyectos específicos.
+Los pagos de membresía y demás ingresos de la Asociación se recibirán a través de los medios de pago electrónico habilitados en la plataforma digital de APIS, incluyendo transferencias bancarias y pagos móviles, los cuales se acreditarán directamente en la cuenta bancaria oficial de la Asociación en una institución financiera registrada en la República de Panamá. Todos los movimientos quedarán registrados con trazabilidad digital, de conformidad con lo establecido en la Ley N.° 51 de 2008. Los registros contables serán custodiados por el Tesorero y estarán disponibles para revisión por parte de la Asamblea General y, cuando corresponda, por el Ministerio de Gobierno. El ejercicio fiscal de la Asociación coincidirá con el año calendario.
+
+## Capítulo VII - Principios institucionales
 
 **Artículo 17. Uso ético de tecnologías digitales**  
 La Asociación promoverá el uso ético y responsable de tecnologías digitales aplicadas a la salud, incluyendo sistemas de información, inteligencia artificial, telemedicina y herramientas de análisis de datos.
@@ -236,7 +260,8 @@ La Asociación fomentará la difusión abierta del conocimiento científico en i
 ## Capítulo VIII - Reformas
 
 **Artículo 25. Reforma de estatutos**  
-Los presentes estatutos podrán ser modificados por la Asamblea General mediante el voto favorable de la mayoría de los miembros presentes.
+Los presentes estatutos podrán ser modificados por la Asamblea General mediante el voto favorable de la mayoría de los miembros titulares presentes en sesión convocada expresamente para tal efecto, indicando en la convocatoria los artículos a reformar y el contenido de la reforma propuesta.
+Toda reforma aprobada deberá ser sometida a la aprobación del Ministerio de Gobierno conforme al procedimiento establecido en el Decreto Ejecutivo N.° 62 de 30 de marzo de 2017, aportando el acta de la Asamblea General debidamente refrendada por el Presidente y el Secretario, así como el estatuto reformado. Una vez aprobada por el Ministerio de Gobierno, la reforma deberá ser elevada a escritura pública e inscrita en el Registro Público de Panamá para efectos de su validez jurídica.
 
 ## Capítulo IX - Disolución
 
